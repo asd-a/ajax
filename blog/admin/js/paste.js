@@ -1,1 +1,178 @@
-eval(function(a,b,c,d,e,f){if(e=function(a){return(b>a?"":e(parseInt(a/b)))+((a%=b)>35?String.fromCharCode(a+29):a.toString(36))},!"".replace(/^/,String)){for(;c--;)f[e(c)]=d[c]||e(c);d=[function(a){return f[a]}],e=function(){return"\\w+"},c=1}for(;c--;)d[c]&&(a=a.replace(new RegExp("\\b"+e(c)+"\\b","g"),d[c]));return a}('(3(){k s,a,r,l,n;3 o(t,e){k y;5.z=t,5.7=e,5.z=s(5.z),5.7=s(5.7).Q("F"),5.z.x("X",(y=5,3(t){k e,n,a,r,i,o,l,s,u,g,c,f,p,h,d,M,m,v,b;B(y.6=8!==t.6?t.6:8,y.13=!0,8!=(8!=(M=t.6)?M.Z:S 0))B((n=t.6.Z).E){A(f=8,y.6.1B=[],o=0,u=(h=n.E).j;o<u;o++)(i=h[o]).C.L(/^9\\/(1g|1G|1F)/)&&y.6.1B.1S(i.C);A(e=l=0,g=(d=n.E).j;l<g;e=++l){B((i=d[e]).C.L(/^P\\//)){(p=D 2o).1O=3(t){4 y.R(t.1L.2n,y.6,f)};1Z{p.2p(i.2q())}1W(t){}t.2s();2r}"9/1g"===i.C&&(0===e&&1<n.E.j&&n.E[1].C.L(/^P\\//)&&(v=!0,r=n.E[1].C),i.19(3(t){4 v?(f=t,y.7.q("N",{9:t,2m:!0,2l:r,6:y.6})):y.7.q("N",{9:t,6:y.6})})),"9/1G"===i.C&&i.19(3(t){4 y.7.q("2g",{9:t,6:y.6})}),"9/1F"===i.C&&i.19(3(t){4 y.7.q("2f",{9:t,6:y.6})})}}1V-1!==1r.G.2e.1a(n.2h,"9/1g")&&(b=n.1M("1T"),U(3(){4 y.7.q("N",{9:b,6:y.6})},1)),y.18(3(t){4 y.R(t,y.6)});B(n=1c.Z)B(8!=(M=b=n.1M("1T"))&&M.j)U(3(){4 y.7.q("N",{9:b,6:y.6}),y.7.q("Y")},1);1V{A(s=0,c=(m=n.2i).j;s<c;s++)a=m[s],y.R(2k.2j(a),y.6);y.18(3(t){})}4 8}))}(s=1c.2t).X=3(t){4"1u"!=1o 15&&8!==15&&15.2u("2E: 2D 2F H 2G. 2I 2c $.W.1k() 2C."),a.12(t).z},s.W.1k=3(){A(k t,e=0,n=5.j;e<n;e++)(t=5[e]).J||s(t).H("14, 16:9, [T]")||(a.12(t),t.J=!0);4 5},s.W.2B=3(){A(k t,e=0,n=5.j;e<n;e++)(t=5[e]).J||s(t).H(":1v(14, 16:9)")||(a.1p(t),t.J=!0);4 5},s.W.2w=3(){A(k t,e=0,n=5.j;e<n;e++)(t=5[e]).J||s(t).H(":1v([T])")||(a.1i(t),t.J=!0);4 5},l=3(t,e){k n,a,r,i,o,l,s,u;B(8==e&&(e=2v),!(l=t.L(/^1R\\:([^\\;]+)\\;2x\\,(.+)$/)))4 8;A((t=l)[0],l=t[1],t=t[2],r=2y(t),a=[],s=0;s<r.j;){A(u=r.1d(s,s+e),i=D 1r(u.j),o=0;o<u.j;)i[o]=u.2A(o),o++;n=D 2z(i),a.1S(n),s+=e}4 D 2J(a,{C:l})},r=3(){4 s(1U.1w("21")).11("T",!0).11("28-1K",!0).11("29",-1).2a({K:1,I:1,22:"27",26:-23,25:"1K",2b:1e-17})},n=3(t,e){k n,a,r=S 0,i=S 0,o=S 0,l=t.1m.1l();4"24"===l?(n=(r=t.2H).1C,!(!t.20||!n||"2N"!==r.1m.1l())&&(0<(i=s("1b[3l=\'#"+n+"\']")).j&&i.H(":1N"))):(/^(16|3k|14|3m|3n)$/.3o(l)?(o=!t.1Y)&&(a=s(t).3j("3i")[0])&&(o=!a.1Y):o="a"===l&&t.20||e,(o=o||s(t).H("[T]"))&&s(t).H(":1N"))},o.G.7=8,o.G.z=8,o.12=3(t){k e=D o(r().3q(t),t);4 s(t).x("3d",3(t){B(!n(t.1L,!1)&&!1c.3f().3g())4 e.z.w()}),e.z.x("w",3(){4 s(t).Q("F-w")}),e.z.x("1j",3(){4 s(t).1h("F-w")})},o.1p=3(i){k n,a,t;4"1u"!=1o V&&8!==V&&V.G&&8!=(t=1t.3h)&&(8!=(t=t.1a(1t,V.G,"E"))&&t.1y)?5.1i(i):(a=D o(r().3p(i),i),n=!1,s(i).x("3z",3(t){4 17!==(t=t.10)&&1I!==t||(n=!1),8}),s(i).x("2K",3(t){k e;4 17!==(e=t.10)&&1I!==e||(n=!0),8!=t.1D&&8!=t.1x&&(n=t.1D||t.1x),n&&3y===t.10&&(a.O=!0,a.z.w(),a.13=!1,U(3(){B(!a.13)4 s(i).w(),a.O=!1},1)),8}),s(i).x("X",3(){}),s(i).x("w",3(){B(!a.O)4 s(i).Q("F-w")}),s(i).x("1j",3(){B(!a.O)4 s(i).1h("F-w")}),s(a.7).x("Y",3(){4 s(i).w(),a.O=!1}),s(a.7).x("N",3(t,e){k n=s(i).1q("3w"),a=s(i).1q("3x"),r=s(i).1s();4 s(i).1s(""+r.1d(0,n)+e.9+r.1d(a)),s(i)[0].3s(n+e.9.j,n+e.9.j),s(i).q("3r")}))},o.1i=3(t){D o(t,t);4 s(t).x("w",3(){4 s(t).Q("F-w")}),s(t).x("1j",3(){4 s(t).1h("F-w")})},o.G.R=3(t,a,r){k i,o,e;4 t.L(/^3t\\-3u\\-1E\\:\\/\\//)?5.7.q("1A",{1z:"3v 1n 3e 1f X 3b P 2T 2S, 2U 2V 1n 2W 1f 2R 2Q 1R."}):(5.7.q("2M"),(i=D 2L).3c="2O",i.1O=(o=5,3(){k t,e,n=1U.1w("2P");n.K=i.K,n.I=i.I,n.2X("2d").2Y(i,0,0,n.K,n.I),e=8;1Z{e=n.37("P/36"),t=l(e)}1W(t){}4 e&&o.7.q("38",{39:t,3a:e,K:i.K,I:i.I,6:a,1C:r}),o.7.q("1J")}),i.35=(e=5,3(){4 e.7.q("1A",{1z:"34 1f 1y P 30: "+t,1E:t}),e.7.q("1J")}),i.1Q=t)},o.G.18=3(a){A(k r,i,o=1H.2Z(31*1H.32()),t=5.z.1P("1b"),e=0,n=t.j;e<n;e++)(r=t[e])["1X"+o]=!0;4 U((i=5,3(){A(k t=i.z.1P("1b"),e=0,n=t.j;e<n;e++)(r=t[e])["1X"+o]||(a(r.1Q),s(r).33());4 i.7.q("Y")}),1)},a=o}).1a(5);',62,222,"|||function|return|this|originalEvent|_target|null|text||||||||||length|var||||||trigger||||||focus|on||_container|for|if|type|new|items|pastable|prototype|is|height|_pastable|width|match|_|pasteText|_textarea_focus_stolen|image|addClass|_handleImage|void|contenteditable|setTimeout|DataTransfer|fn|paste|_pasteCheckContainerDone|clipboardData|keyCode|attr|mountNonInputable|_paste_event_fired|textarea|console|input||_checkImagesInContainer|getAsString|call|img|window|slice||to|plain|removeClass|mountContenteditable|blur|pastableNonInputable|toLowerCase|nodeName|are|typeof|mountTextarea|prop|Array|val|Object|undefined|not|createElement|metaKey|get|message|pasteImageError|pastedTypes|name|ctrlKey|url|html|rtf|Math|224|pasteImageEnd|hidden|target|getData|visible|onload|find|src|data|push|Text|document|else|catch|_paste_marked_|disabled|try|href|div|position|100|area|overflow|left|fixed|aria|tabindex|css|opacity|use||indexOf|pasteTextHtml|pasteTextRich|types|files|createObjectURL|URL|fileType|isFilename|result|FileReader|readAsDataURL|getAsFile|break|preventDefault|jQuery|log|512|pastableContenteditable|base64|atob|Uint8Array|charCodeAt|pastableTextarea|instead|This|DEPRECATED|method|deprecated|parentNode|Please|Blob|keydown|Image|pasteImageStart|map|anonymous|canvas|its|retieve|Safari|in|however|we|unable|getContext|drawImage|floor|from|1e3|random|remove|Failed|onerror|png|toDataURL|pasteImage|blob|dataURL|an|crossOrigin|click|trying|getSelection|toString|getOwnPropertyDescriptor|fieldset|closest|select|usemap|button|object|test|insertBefore|appendTo|change|setSelectionRange|webkit|fake|You|selectionStart|selectionEnd|86|keyup".split("|"),0,{}));
+(function() {
+    var s, a, r, l, n;
+    function o(t, e) {
+        var y;
+        this._container = t, this._target = e, this._container = s(this._container), this._target = s(this._target).addClass("pastable"), 
+        this._container.on("paste", (y = this, function(t) {
+            var e, n, a, r, i, o, l, s, u, g, c, f, p, h, d, _, m, v, b;
+            if (y.originalEvent = null !== t.originalEvent ? t.originalEvent : null, y._paste_event_fired = !0, 
+            null != (null != (_ = t.originalEvent) ? _.clipboardData : void 0)) if ((n = t.originalEvent.clipboardData).items) {
+                for (f = null, y.originalEvent.pastedTypes = [], o = 0, u = (h = n.items).length; o < u; o++) (i = h[o]).type.match(/^text\/(plain|rtf|html)/) && y.originalEvent.pastedTypes.push(i.type);
+                for (e = l = 0, g = (d = n.items).length; l < g; e = ++l) {
+                    if ((i = d[e]).type.match(/^image\//)) {
+                        (p = new FileReader()).onload = function(t) {
+                            return y._handleImage(t.target.result, y.originalEvent, f);
+                        };
+                        try {
+                            p.readAsDataURL(i.getAsFile());
+                        } catch (t) {}
+                        t.preventDefault();
+                        break;
+                    }
+                    "text/plain" === i.type && (0 === e && 1 < n.items.length && n.items[1].type.match(/^image\//) && (v = !0, 
+                    r = n.items[1].type), i.getAsString(function(t) {
+                        return v ? (f = t, y._target.trigger("pasteText", {
+                            text: t,
+                            isFilename: !0,
+                            fileType: r,
+                            originalEvent: y.originalEvent
+                        })) : y._target.trigger("pasteText", {
+                            text: t,
+                            originalEvent: y.originalEvent
+                        });
+                    })), "text/rtf" === i.type && i.getAsString(function(t) {
+                        return y._target.trigger("pasteTextRich", {
+                            text: t,
+                            originalEvent: y.originalEvent
+                        });
+                    }), "text/html" === i.type && i.getAsString(function(t) {
+                        return y._target.trigger("pasteTextHtml", {
+                            text: t,
+                            originalEvent: y.originalEvent
+                        });
+                    });
+                }
+            } else -1 !== Array.prototype.indexOf.call(n.types, "text/plain") && (b = n.getData("Text"), 
+            setTimeout(function() {
+                return y._target.trigger("pasteText", {
+                    text: b,
+                    originalEvent: y.originalEvent
+                });
+            }, 1)), y._checkImagesInContainer(function(t) {
+                return y._handleImage(t, y.originalEvent);
+            });
+            if (n = window.clipboardData) if (null != (_ = b = n.getData("Text")) && _.length) setTimeout(function() {
+                return y._target.trigger("pasteText", {
+                    text: b,
+                    originalEvent: y.originalEvent
+                }), y._target.trigger("_pasteCheckContainerDone");
+            }, 1); else {
+                for (s = 0, c = (m = n.files).length; s < c; s++) a = m[s], y._handleImage(URL.createObjectURL(a), y.originalEvent);
+                y._checkImagesInContainer(function(t) {});
+            }
+            return null;
+        }));
+    }
+    (s = window.jQuery).paste = function(t) {
+        return "undefined" != typeof console && null !== console && console.log("DEPRECATED: This method is deprecated. Please use $.fn.pastableNonInputable() instead."), 
+        a.mountNonInputable(t)._container;
+    }, s.fn.pastableNonInputable = function() {
+        for (var t, e = 0, n = this.length; e < n; e++) (t = this[e])._pastable || s(t).is("textarea, input:text, [contenteditable]") || (a.mountNonInputable(t), 
+        t._pastable = !0);
+        return this;
+    }, s.fn.pastableTextarea = function() {
+        for (var t, e = 0, n = this.length; e < n; e++) (t = this[e])._pastable || s(t).is(":not(textarea, input:text)") || (a.mountTextarea(t), 
+        t._pastable = !0);
+        return this;
+    }, s.fn.pastableContenteditable = function() {
+        for (var t, e = 0, n = this.length; e < n; e++) (t = this[e])._pastable || s(t).is(":not([contenteditable])") || (a.mountContenteditable(t), 
+        t._pastable = !0);
+        return this;
+    }, l = function(t, e) {
+        var n, a, r, i, o, l, s, u;
+        if (null == e && (e = 512), !(l = t.match(/^data\:([^\;]+)\;base64\,(.+)$/))) return null;
+        for ((t = l)[0], l = t[1], t = t[2], r = atob(t), a = [], s = 0; s < r.length; ) {
+            for (u = r.slice(s, s + e), i = new Array(u.length), o = 0; o < u.length; ) i[o] = u.charCodeAt(o), 
+            o++;
+            n = new Uint8Array(i), a.push(n), s += e;
+        }
+        return new Blob(a, {
+            type: l
+        });
+    }, r = function() {
+        return s(document.createElement("div")).attr("contenteditable", !0).attr("aria-hidden", !0).attr("tabindex", -1).css({
+            width: 1,
+            height: 1,
+            position: "fixed",
+            left: -100,
+            overflow: "hidden",
+            opacity: 1e-17
+        });
+    }, n = function(t, e) {
+        var n, a, r = void 0, i = void 0, o = void 0, l = t.nodeName.toLowerCase();
+        return "area" === l ? (n = (r = t.parentNode).name, !(!t.href || !n || "map" !== r.nodeName.toLowerCase()) && 0 < (i = s("img[usemap='#" + n + "']")).length && i.is(":visible")) : (/^(input|select|textarea|button|object)$/.test(l) ? (o = !t.disabled) && (a = s(t).closest("fieldset")[0]) && (o = !a.disabled) : o = "a" === l && t.href || e, 
+        (o = o || s(t).is("[contenteditable]")) && s(t).is(":visible"));
+    }, o.prototype._target = null, o.prototype._container = null, o.mountNonInputable = function(t) {
+        var e = new o(r().appendTo(t), t);
+        return s(t).on("click", function(t) {
+            if (!n(t.target, !1) && !window.getSelection().toString()) return e._container.focus();
+        }), e._container.on("focus", function() {
+            return s(t).addClass("pastable-focus");
+        }), e._container.on("blur", function() {
+            return s(t).removeClass("pastable-focus");
+        });
+    }, o.mountTextarea = function(i) {
+        var n, a, t;
+        return "undefined" != typeof DataTransfer && null !== DataTransfer && DataTransfer.prototype && null != (t = Object.getOwnPropertyDescriptor) && null != (t = t.call(Object, DataTransfer.prototype, "items")) && t.get ? this.mountContenteditable(i) : (a = new o(r().insertBefore(i), i), 
+        n = !1, s(i).on("keyup", function(t) {
+            return 17 !== (t = t.keyCode) && 224 !== t || (n = !1), null;
+        }), s(i).on("keydown", function(t) {
+            var e;
+            return 17 !== (e = t.keyCode) && 224 !== e || (n = !0), null != t.ctrlKey && null != t.metaKey && (n = t.ctrlKey || t.metaKey), 
+            n && 86 === t.keyCode && (a._textarea_focus_stolen = !0, a._container.focus(), a._paste_event_fired = !1, 
+            setTimeout(function() {
+                if (!a._paste_event_fired) return s(i).focus(), a._textarea_focus_stolen = !1;
+            }, 1)), null;
+        }), s(i).on("paste", function() {}), s(i).on("focus", function() {
+            if (!a._textarea_focus_stolen) return s(i).addClass("pastable-focus");
+        }), s(i).on("blur", function() {
+            if (!a._textarea_focus_stolen) return s(i).removeClass("pastable-focus");
+        }), s(a._target).on("_pasteCheckContainerDone", function() {
+            return s(i).focus(), a._textarea_focus_stolen = !1;
+        }), s(a._target).on("pasteText", function(t, e) {
+            var n = s(i).prop("selectionStart"), a = s(i).prop("selectionEnd"), r = s(i).val();
+            return s(i).val("" + r.slice(0, n) + e.text + r.slice(a)), s(i)[0].setSelectionRange(n + e.text.length, n + e.text.length), 
+            s(i).trigger("change");
+        }));
+    }, o.mountContenteditable = function(t) {
+        new o(t, t);
+        return s(t).on("focus", function() {
+            return s(t).addClass("pastable-focus");
+        }), s(t).on("blur", function() {
+            return s(t).removeClass("pastable-focus");
+        });
+    }, o.prototype._handleImage = function(t, a, r) {
+        var i, o, e;
+        return t.match(/^webkit\-fake\-url\:\/\//) ? this._target.trigger("pasteImageError", {
+            message: "You are trying to paste an image in Safari, however we are unable to retieve its data."
+        }) : (this._target.trigger("pasteImageStart"), (i = new Image()).crossOrigin = "anonymous", 
+        i.onload = (o = this, function() {
+            var t, e, n = document.createElement("canvas");
+            n.width = i.width, n.height = i.height, n.getContext("2d").drawImage(i, 0, 0, n.width, n.height), 
+            e = null;
+            try {
+                e = n.toDataURL("image/png"), t = l(e);
+            } catch (t) {}
+            return e && o._target.trigger("pasteImage", {
+                blob: t,
+                dataURL: e,
+                width: i.width,
+                height: i.height,
+                originalEvent: a,
+                name: r
+            }), o._target.trigger("pasteImageEnd");
+        }), i.onerror = (e = this, function() {
+            return e._target.trigger("pasteImageError", {
+                message: "Failed to get image from: " + t,
+                url: t
+            }), e._target.trigger("pasteImageEnd");
+        }), i.src = t);
+    }, o.prototype._checkImagesInContainer = function(a) {
+        for (var r, i, o = Math.floor(1e3 * Math.random()), t = this._container.find("img"), e = 0, n = t.length; e < n; e++) (r = t[e])["_paste_marked_" + o] = !0;
+        return setTimeout((i = this, function() {
+            for (var t = i._container.find("img"), e = 0, n = t.length; e < n; e++) (r = t[e])["_paste_marked_" + o] || (a(r.src), 
+            s(r).remove());
+            return i._target.trigger("_pasteCheckContainerDone");
+        }), 1);
+    }, a = o;
+}).call(this);

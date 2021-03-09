@@ -1,1 +1,294 @@
-eval(function(a,b,c,d,e,f){if(e=function(a){return(b>a?"":e(parseInt(a/b)))+((a%=b)>35?String.fromCharCode(a+29):a.toString(36))},!"".replace(/^/,String)){for(;c--;)f[e(c)]=d[c]||e(c);d=[function(a){return f[a]}],e=function(){return"\\w+"},c=1}for(;c--;)d[c]&&(a=a.replace(new RegExp("\\b"+e(c)+"\\b","g"),d[c]));return a}('(7 28(a,b){6(I H==="Z"&&I 1h==="Z"){1h.H=b(1i("X"))}G{6(I 19==="7"&&19.24){19(["X"],b)}G{6(I H==="Z"){H.1n=b(1i("X"))}G{a.1n=b(a.X)}}}})((I 1l!=="1p"?1l:1W),7(a){9(7(b){5 c={};7 d(f){6(c[f]){9 c[f].H}5 e=c[f]={i:f,l:N,H:{}};b[f].1m(e.H,e,e.H,d);e.l=E;9 e.H}d.m=b;d.c=c;d.d=7(f,g,e){6(!d.o(f,g)){Q.Y(f,g,{1k:E,1H:e})}};d.r=7(e){6(I 1d!=="1p"&&1d.1j){Q.Y(e,1d.1j,{1b:"1A"})}Q.Y(e,"17",{1b:E})};d.t=7(g,h){6(h&1){g=d(g)}6(h&8){9 g}6((h&4)&&I g==="Z"&&g&&g.17){9 g}5 f=Q.1J(1c);d.r(f);Q.Y(f,"S",{1k:E,1b:g});6(h&2&&I g!="1O"){J(5 e 1x g){d.d(f,e,7(k){9 g[k]}.1N(1c,e))}}9 f};d.n=7(f){5 e=f&&f.17?7 g(){9 f["S"]}:7 h(){9 f};d.d(e,"a",e);9 e};d.o=7(e,f){9 Q.1P.1u.1m(e,f)};d.p="";9 d(d.s=1)})([(7(c,b){c.H=a}),(7(h,n,g){g.r(n);5 e=g(0);5 q=g.n(e);5 c=[];5 d=7 d(t,z,y){5 u=y;5 x=0;5 w=t.D;1q(u<z.D){5 v=z[u];6(x<=0&&z.O(u,u+w)===t){9 u}G{6(v==="\\\\"){u++}G{6(v==="{"){x++}G{6(v==="}"){x--}}}}u++}9-1};5 s=7 s(w,x,B,A){5 u=[];J(5 y=0;y<w.D;y++){6(w[y].K==="L"){5 C=w[y].F;5 v=E;5 t=0;5 z=1R 0;z=C.W(x);6(z!==-1){t=z;u.P({K:"L",F:C.O(0,t)});v=N}1q(E){6(v){z=C.W(x,t);6(z===-1){14}u.P({K:"L",F:C.O(t,z)});t=z}G{z=d(B,C,t+x.D);6(z===-1){14}u.P({K:"1C",F:C.O(t+x.D,z),1f:C.O(t,z+B.D),M:A});t=z+B.D}v=!v}u.P({K:"L",F:C.O(t)})}G{u.P(w[y])}}9 u};5 l=(s);5 b=7 r(x,w){5 v=[{K:"L",F:x}];J(5 u=0;u<w.D;u++){5 t=w[u];v=l(v,t.T,t.U,t.M||N)}9 v};5 m=7 k(A,t){5 y=b(A,t.12);6(y.D===1&&y[0].K==="L"){9 1c}5 u=R.1D();J(5 v=0;v<y.D;v++){6(y[v].K==="L"){u.V(R.1s(y[v].F))}G{5 w=R.1o("1r");5 x=y[v].F;t.1a=y[v].M;10 11=N;J(10 j=0;j<c.D;j++){6(t.1a===c[j][1]&&c[j][0]===y[v].F){11=E;c[j][2]=c[j][2].1I(E);u.V(c[j][2]);c[j][3]=E;14}}6(!11){5 w=R.1o("1r");21{q.a.16(y[v].F,w,t);c.P([y[v].F,t.1a,w,E])}2b(z){6(!(z 2f q.a.2e)){1w z}t.1e("29 2a-16: 20 1t 1Z `"+y[v].F+"` 1Y ",z);u.V(R.1s(y[v].1f));27}u.V(w)}}}9 u};5 p=7 p(w,t){J(5 v=0;v<w.13.D;v++){5 u=w.13[v];6(u.1g===3){5 x=m(u.26,t);6(x){v+=x.13.D-1;w.25(x,u)}}G{6(u.1g===1){(7(){5 y=" "+u.1V+" ";5 z=t.15.W(u.1G.1T())===-1&&t.18.1y(7(A){9 y.W(" "+A+" ")===-1});6(z){p(u,t)}})()}}}};5 f=7 f(w,u){6(!w){1w 23 22("1X 2c 2d 1t 16")}5 t={};J(5 v 1x u){6(u.1u(v)){t[v]=u[v]}}t.12=t.12||[{T:"$$",U:"$$",M:E},{T:"\\\\(",U:"\\\\)",M:N},{T:"\\\\[",U:"\\\\]",M:E}];t.15=t.15||["1E","1z","1B","1K","1U","1Q","1L"];t.18=t.18||[];t.1e=t.1e||1M.1F;t.1v=t.1v||{};J(10 i=0;i<c.D;i++){6(!c[i][3]){c.1S(i,1);i--}G{c[i][3]=N}}p(w,t)};5 o=n["S"]=(f)})])["S"]});',62,140,"|||||var|if|function||return||||||||||||||||||||||||||||||length|true|data|else|exports|typeof|for|type|text|display|false|slice|push|Object|document|default|left|right|appendChild|indexOf|katex|defineProperty|object|let|cachable|delimiters|childNodes|break|ignoredTags|render|__esModule|ignoredClasses|define|displayMode|value|null|Symbol|errorCallback|rawData|nodeType|module|require|toStringTag|enumerable|self|call|renderMathInElement|createElement|undefined|while|span|createTextNode|to|hasOwnProperty|macros|throw|in|every|noscript|Module|style|math|createDocumentFragment|script|error|nodeName|get|cloneNode|create|textarea|option|console|bind|string|prototype|code|void|splice|toLowerCase|pre|className|this|No|with|parse|Failed|try|Error|new|amd|replaceChild|textContent|continue|webpackUniversalModuleDefinition|KaTeX|auto|catch|element|provided|ParseError|instanceof".split("|"),0,{}));
+(function webpackUniversalModuleDefinition(a, b) {
+	if (typeof exports === "object" && typeof module === "object") {
+		module.exports = b(require("katex"))
+	} else {
+		if (typeof define === "function" && define.amd) {
+			define(["katex"], b)
+		} else {
+			if (typeof exports === "object") {
+				exports.renderMathInElement = b(require("katex"))
+			} else {
+				a.renderMathInElement = b(a.katex)
+			}
+		}
+	}
+})((typeof self !== "undefined" ? self : this), function(a) {
+	return (function(b) {
+		var c = {};
+
+		function d(f) {
+			if (c[f]) {
+				return c[f].exports
+			}
+			var e = c[f] = {
+				i: f,
+				l: false,
+				exports: {}
+			};
+			b[f].call(e.exports, e, e.exports, d);
+			e.l = true;
+			return e.exports
+		}
+		d.m = b;
+		d.c = c;
+		d.d = function(f, g, e) {
+			if (!d.o(f, g)) {
+				Object.defineProperty(f, g, {
+					enumerable: true,
+					get: e
+				})
+			}
+		};
+		d.r = function(e) {
+			if (typeof Symbol !== "undefined" && Symbol.toStringTag) {
+				Object.defineProperty(e, Symbol.toStringTag, {
+					value: "Module"
+				})
+			}
+			Object.defineProperty(e, "__esModule", {
+				value: true
+			})
+		};
+		d.t = function(g, h) {
+			if (h & 1) {
+				g = d(g)
+			}
+			if (h & 8) {
+				return g
+			}
+			if ((h & 4) && typeof g === "object" && g && g.__esModule) {
+				return g
+			}
+			var f = Object.create(null);
+			d.r(f);
+			Object.defineProperty(f, "default", {
+				enumerable: true,
+				value: g
+			});
+			if (h & 2 && typeof g != "string") {
+				for (var e in g) {
+					d.d(f, e, function(k) {
+						return g[k]
+					}.bind(null, e))
+				}
+			}
+			return f
+		};
+		d.n = function(f) {
+			var e = f && f.__esModule ?
+			function g() {
+				return f["default"]
+			} : function h() {
+				return f
+			};
+			d.d(e, "a", e);
+			return e
+		};
+		d.o = function(e, f) {
+			return Object.prototype.hasOwnProperty.call(e, f)
+		};
+		d.p = "";
+		return d(d.s = 1)
+	})([(function(c, b) {
+		c.exports = a
+	}), (function(h, n, g) {
+		g.r(n);
+		var e = g(0);
+		var q = g.n(e);
+		var c = [];
+		var d = function d(t, z, y) {
+				var u = y;
+				var x = 0;
+				var w = t.length;
+				while (u < z.length) {
+					var v = z[u];
+					if (x <= 0 && z.slice(u, u + w) === t) {
+						return u
+					} else {
+						if (v === "\\") {
+							u++
+						} else {
+							if (v === "{") {
+								x++
+							} else {
+								if (v === "}") {
+									x--
+								}
+							}
+						}
+					}
+					u++
+				}
+				return -1
+			};
+		var s = function s(w, x, B, A) {
+				var u = [];
+				for (var y = 0; y < w.length; y++) {
+					if (w[y].type === "text") {
+						var C = w[y].data;
+						var v = true;
+						var t = 0;
+						var z = void 0;
+						z = C.indexOf(x);
+						if (z !== -1) {
+							t = z;
+							u.push({
+								type: "text",
+								data: C.slice(0, t)
+							});
+							v = false
+						}
+						while (true) {
+							if (v) {
+								z = C.indexOf(x, t);
+								if (z === -1) {
+									break
+								}
+								u.push({
+									type: "text",
+									data: C.slice(t, z)
+								});
+								t = z
+							} else {
+								z = d(B, C, t + x.length);
+								if (z === -1) {
+									break
+								}
+								u.push({
+									type: "math",
+									data: C.slice(t + x.length, z),
+									rawData: C.slice(t, z + B.length),
+									display: A
+								});
+								t = z + B.length
+							}
+							v = !v
+						}
+						u.push({
+							type: "text",
+							data: C.slice(t)
+						})
+					} else {
+						u.push(w[y])
+					}
+				}
+				return u
+			};
+		var l = (s);
+		var b = function r(x, w) {
+				var v = [{
+					type: "text",
+					data: x
+				}];
+				for (var u = 0; u < w.length; u++) {
+					var t = w[u];
+					v = l(v, t.left, t.right, t.display || false)
+				}
+				return v
+			};
+		var m = function k(A, t) {
+				var y = b(A, t.delimiters);
+				if (y.length === 1 && y[0].type === "text") {
+					return null
+				}
+				var u = document.createDocumentFragment();
+				for (var v = 0; v < y.length; v++) {
+					if (y[v].type === "text") {
+						u.appendChild(document.createTextNode(y[v].data))
+					} else {
+						var w = document.createElement("span");
+						var x = y[v].data;
+						t.displayMode = y[v].display;
+						let cachable = false;
+						for (let j = 0; j < c.length; j++) {
+							if (t.displayMode === c[j][1] && c[j][0] === y[v].data) {
+								cachable = true;
+								c[j][2] = c[j][2].cloneNode(true);
+								u.appendChild(c[j][2]);
+								c[j][3] = true;
+								break
+							}
+						}
+						if (!cachable) {
+							var w = document.createElement("span");
+							try {
+								q.a.render(y[v].data, w, t);
+								c.push([y[v].data, t.displayMode, w, true])
+							} catch (z) {
+								if (!(z instanceof q.a.ParseError)) {
+									throw z
+								}
+								t.errorCallback("KaTeX auto-render: Failed to parse `" + y[v].data + "` with ", z);
+								u.appendChild(document.createTextNode(y[v].rawData));
+								continue
+							}
+							u.appendChild(w)
+						}
+					}
+				}
+				return u
+			};
+		var p = function p(w, t) {
+				for (var v = 0; v < w.childNodes.length; v++) {
+					var u = w.childNodes[v];
+					if (u.nodeType === 3) {
+						var x = m(u.textContent, t);
+						if (x) {
+							v += x.childNodes.length - 1;
+							w.replaceChild(x, u)
+						}
+					} else {
+						if (u.nodeType === 1) {
+							(function() {
+								var y = " " + u.className + " ";
+								var z = t.ignoredTags.indexOf(u.nodeName.toLowerCase()) === -1 && t.ignoredClasses.every(function(A) {
+									return y.indexOf(" " + A + " ") === -1
+								});
+								if (z) {
+									p(u, t)
+								}
+							})()
+						}
+					}
+				}
+			};
+		var f = function f(w, u) {
+				if (!w) {
+					throw new Error("No element provided to render")
+				}
+				var t = {};
+				for (var v in u) {
+					if (u.hasOwnProperty(v)) {
+						t[v] = u[v]
+					}
+				}
+				t.delimiters = t.delimiters || [{
+					left: "$$",
+					right: "$$",
+					display: true
+				}, {
+					left: "\\(",
+					right: "\\)",
+					display: false
+				}, {
+					left: "\\[",
+					right: "\\]",
+					display: true
+				}];
+				t.ignoredTags = t.ignoredTags || ["script", "noscript", "style", "textarea", "pre", "code", "option"];
+				t.ignoredClasses = t.ignoredClasses || [];
+				t.errorCallback = t.errorCallback || console.error;
+				t.macros = t.macros || {};
+				for (let i = 0; i < c.length; i++) {
+					if (!c[i][3]) {
+						c.splice(i, 1);
+						i--
+					} else {
+						c[i][3] = false
+					}
+				}
+				p(w, t)
+			};
+		var o = n["default"] = (f)
+	})])["default"]
+});
