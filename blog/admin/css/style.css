@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    font-family: microsoft yahei, "微软雅黑", consolas, Consolas, source code pro, SimSun, Helvetica, Arial, Sans-serif, monospace;
+    font-family: "更纱黑体 SC", microsoft yahei, "微软雅黑", consolas, Consolas, source code pro, SimSun, Helvetica, Arial, Sans-serif, monospace;
     background: #f6f6f3;
     color: #444;
     font-size: 87.5%;
@@ -25,7 +25,7 @@ a:hover {
 .mono,
 code,
 pre {
-    font-family: Consolas, microsoft yahei, "微软雅黑",  source code pro, Menlo, Monaco, "Courier New", monospace
+    font-family: Consolas, consolas, "更纱黑体 SC", microsoft yahei, "微软雅黑",  source code pro, Menlo, Monaco, "Courier New", monospace
 }
 
 .p {
