@@ -310,6 +310,7 @@ function() {
 
               case "z":
                 a.shiftKey ? l.redo() : l.undo(), d = !0;
+                break;
             }
             return d ? (a.preventDefault && a.preventDefault(), window.event && (window.event.returnValue = !1), 
             void 0) : void 0;
