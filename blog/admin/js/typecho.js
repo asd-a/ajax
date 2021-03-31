@@ -33,7 +33,7 @@ window.Typecho = {
 			function b(a) {
 				var b = e(a).y,
 					c = f + b;
-				return h = b, c = Math.max(i, c), textarea.css("padding-bottom", String(c - 42) + "px"), textarea.innerHeight(c), i > c && d(), !1
+				return h = b, c = Math.max(i, c), textarea.css("padding-bottom", String(c - 210) + "px"), textarea.innerHeight(c), i > c && d(), !1
 			}
 			function d() {
 				var e = textarea.outerHeight();
