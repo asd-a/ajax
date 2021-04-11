@@ -85,6 +85,7 @@
 }
 
 .page-navigator li {
+    transition: all .25s;
     box-shadow: 15px 5px 25px #e4e4e4;
     background: #fff
 }
