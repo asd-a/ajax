@@ -86,7 +86,7 @@
 
 .page-navigator li {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     box-shadow: 15px 5px 25px #e4e4e4;
     background: #fff
 }
@@ -141,7 +141,7 @@
 
 .article-strip li {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     background: #fff;
     padding: 10px;
     border-radius: 10px;
@@ -193,6 +193,8 @@
 .article-strip li:hover span,
 .article-strip li:hover span a,
 .article-strip li:hover span i {
+    transition: all .20s;
+    transition-delay: .05s;
     color: #fff
 }
 
@@ -208,7 +210,7 @@ code.hljs {
 
 .minilize-fold {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     display: none;
     position: fixed;
     width: 34px;
@@ -1535,7 +1537,7 @@ th {
 
 #app #content .header .admin li a {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     box-shadow: 5px 5px 15px #e4e4e4;
     display: inline-block;
     height: 100%;
@@ -1553,6 +1555,8 @@ th {
 }
 
 #app #content .header .admin li a i {
+    transition: all .20s;
+    transition-delay: .05s;
     font-size: 14px;
     width: 14px;
     height: 14px
@@ -1635,7 +1639,7 @@ th {
 
 #sidebar .change-card {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     position: absolute;
     width: 34px;
     height: 34px;
@@ -1715,7 +1719,7 @@ th {
 #sidebar .loop .widget .widget-list .recent .content {
     display: block;
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     background: #f7f7f7;
     padding: 10px;
     margin: 0 70px 20px 20px;
@@ -1737,6 +1741,8 @@ th {
 #sidebar .loop .widget .widget-list .recent .content:hover p,
 #sidebar .loop .widget .widget-list .recent .content:hover p>a,
 #sidebar .loop .widget .widget-list .recent .content:hover p>i {
+    transition: all .20s;
+    transition-delay: .05s;
     color: #fff
 }
 
@@ -1777,7 +1783,7 @@ th {
 
 #sidebar .loop .widget .widget-list .comment-info a {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     display: block;
     border-radius: 10px
 }
@@ -1792,6 +1798,8 @@ th {
 #sidebar .loop .widget .widget-list .comment-info a:hover p,
 #sidebar .loop .widget .widget-list .comment-info a:hover p i,
 #sidebar .loop .widget .widget-list .comment-info a:hover p span {
+    transition: all .20s;
+    transition-delay: .05s;
     color: #fff
 }
 
@@ -1843,7 +1851,7 @@ th {
 
 #sidebar .loop .widget .archive-list li a {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     border-radius: 10px;
     display: inline-flex;
     flex-direction: column;
@@ -1861,6 +1869,8 @@ th {
 }
 
 #sidebar .loop .widget .archive-list li a p {
+    transition: all .20s;
+    transition-delay: .05s;
     text-align: center
 }
 
@@ -2089,7 +2099,7 @@ th {
 
 #post .post-near li a {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
 }
 
 #post .post-near li a:hover {
@@ -2207,7 +2217,7 @@ th {
 
 #post .post-card .post-copyright p a {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     color: #797979;
     text-decoration: underline
 }
@@ -2246,7 +2256,7 @@ th {
 #contentTree .asideOpe {
     position: absolute;
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     width: 34px;
     height: 34px;
     top: 50%;
@@ -2491,11 +2501,13 @@ th {
 #comments .comment-list li .cancel-comment-reply a,
 #comments .comment-list li .comment-reply a {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
 }
 
 #comments .comment-list li .cancel-comment-reply a:hover,
 #comments .comment-list li .comment-reply a:hover {
+    transition: all .20s;
+    transition-delay: .05s;
     color: #4a55ee
 }
 
@@ -2559,7 +2571,7 @@ th {
 
 #custom .content .card {
     transition: all .20s;
-    transition-delay: all .05s;
+    transition-delay: .05s;
     background: #fff;
     border-radius: 3px;
     box-shadow: 5px 5px 15px #e4e4e4;
@@ -2578,6 +2590,8 @@ th {
 
 #custom .content .card:hover div h4,
 #custom .content .card:hover div p {
+    transition: all .20s;
+    transition-delay: .05s;
     color: #fff
 }
 
