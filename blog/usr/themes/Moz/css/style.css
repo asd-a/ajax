@@ -85,7 +85,8 @@
 }
 
 .page-navigator li {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     box-shadow: 15px 5px 25px #e4e4e4;
     background: #fff
 }
@@ -139,7 +140,8 @@
 }
 
 .article-strip li {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     background: #fff;
     padding: 10px;
     border-radius: 10px;
@@ -205,7 +207,8 @@ code.hljs {
 }
 
 .minilize-fold {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     display: none;
     position: fixed;
     width: 34px;
@@ -1531,7 +1534,8 @@ th {
 }
 
 #app #content .header .admin li a {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     box-shadow: 5px 5px 15px #e4e4e4;
     display: inline-block;
     height: 100%;
@@ -1630,7 +1634,8 @@ th {
 }
 
 #sidebar .change-card {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     position: absolute;
     width: 34px;
     height: 34px;
@@ -1709,7 +1714,8 @@ th {
 
 #sidebar .loop .widget .widget-list .recent .content {
     display: block;
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     background: #f7f7f7;
     padding: 10px;
     margin: 0 70px 20px 20px;
@@ -1770,7 +1776,8 @@ th {
 }
 
 #sidebar .loop .widget .widget-list .comment-info a {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     display: block;
     border-radius: 10px
 }
@@ -1835,7 +1842,8 @@ th {
 }
 
 #sidebar .loop .widget .archive-list li a {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     border-radius: 10px;
     display: inline-flex;
     flex-direction: column;
@@ -2080,7 +2088,8 @@ th {
 }
 
 #post .post-near li a {
-    transition: all .25s
+    transition: all .20s;
+    transition-delay: all .05s;
 }
 
 #post .post-near li a:hover {
@@ -2197,7 +2206,8 @@ th {
 }
 
 #post .post-card .post-copyright p a {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     color: #797979;
     text-decoration: underline
 }
@@ -2235,7 +2245,8 @@ th {
 
 #contentTree .asideOpe {
     position: absolute;
-    transition: all .5s;
+    transition: all .20s;
+    transition-delay: all .05s;
     width: 34px;
     height: 34px;
     top: 50%;
@@ -2479,7 +2490,8 @@ th {
 
 #comments .comment-list li .cancel-comment-reply a,
 #comments .comment-list li .comment-reply a {
-    transition: all .25s
+    transition: all .20s;
+    transition-delay: all .05s;
 }
 
 #comments .comment-list li .cancel-comment-reply a:hover,
@@ -2507,7 +2519,7 @@ th {
 #comments .comment-list li .comment-content {
     word-wrap: break-word;
     word-break: break-all;
-    paddinsg-top: 1em;
+    padding-top: 1em;
     padding-bottom: 10px;
     font-size: 14px
 }
@@ -2546,7 +2558,8 @@ th {
 }
 
 #custom .content .card {
-    transition: all .25s;
+    transition: all .20s;
+    transition-delay: all .05s;
     background: #fff;
     border-radius: 3px;
     box-shadow: 5px 5px 15px #e4e4e4;
