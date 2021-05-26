@@ -53,7 +53,7 @@
 				textarea.blur();
 				iLastMousePos = mousePosition(e).y;
 
-				staticOffset = textarea.height() - iLastMousePos;
+				staticOffset = textarea.innerHeight() - iLastMousePos;
 				textarea.css('opacity', 0.25);
 
 				$(document).mousemove(performDrag).mouseup(endDrag);
@@ -67,7 +67,7 @@
 				iLastMousePos = iThisMousePos;
 				iMousePos = Math.max(iMin, iMousePos);
 				textarea.css("padding-bottom", String(iMousePos - 210) + "px"),
-					textarea.innerHeight(iMousePos);
+				textarea.innerHeight(iMousePos);
 
 				if (iMousePos < iMin) {
 					endDrag();
