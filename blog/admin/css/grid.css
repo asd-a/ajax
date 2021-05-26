@@ -714,6 +714,12 @@
     }
 }
 
+@media(max-width:575px) {
+    .kit-hidden-mb {
+        display: none;
+    }
+}
+
 @media(max-width:767px) {
     .kit-hidden-mb {
         display: none;
@@ -726,11 +732,6 @@
     }
 }
 
-@media(max-width:1199px) {
-    .kit-hidden {
-        display: none;
-    }
-}
 
 .clearfix,
 .row {
