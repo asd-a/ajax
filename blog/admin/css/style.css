@@ -25,7 +25,7 @@ a:hover {
 .mono,
 code,
 pre {
-    font-family: Consolas, consolas, "更纱黑体 SC", microsoft yahei, "微软雅黑",  source code pro, Menlo, Monaco, "Courier New", monospace
+    font-family: Consolas, consolas, "更纱黑体 SC", microsoft yahei, "微软雅黑", source code pro, Menlo, Monaco, "Courier New", monospace
 }
 
 .p {
@@ -2348,6 +2348,16 @@ a.operate-reply {
     font-size: .85714em;
     text-align: center;
     content: "- more -"
+}
+
+#wmd-preview .embed {
+    border: 1px solid #ccc;
+    height: 40px;
+    overflow: hidden;
+    line-height: 40px;
+    text-align: center;
+    font-size: 12px;
+    color: #777;
 }
 
 #wmd-preview table {
