@@ -1116,7 +1116,8 @@ a.operate-reply {
 }
 
 .typecho-post-area #text {
-    resize: none
+    resize: none;
+    font-size: 16px
 }
 
 #advance-panel {
@@ -2299,7 +2300,8 @@ a.operate-reply {
     padding: 0 15px;
     word-wrap: break-word;
     overflow: auto;
-    border-radius: 2px
+    border-radius: 2px;
+    font-size: 16px
 }
 
 #wmd-preview img {
