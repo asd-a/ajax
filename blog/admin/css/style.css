@@ -752,7 +752,7 @@ select {
 
 .typecho-page-title h2 {
     margin: 25px 0 10px;
-    font-size: 1.28571em
+    font-size: 1.32142em
 }
 
 .typecho-page-title h2 a {
@@ -1097,7 +1097,7 @@ a.operate-reply {
 }
 
 .typecho-post-area input.title {
-    font-size: 1.18em;
+    font-size: 1.25em;
     font-weight: 700
 }
 
@@ -1117,7 +1117,7 @@ a.operate-reply {
 
 .typecho-post-area #text {
     resize: none;
-    font-size: 16px
+    font-size: 15px
 }
 
 #advance-panel {
@@ -2301,7 +2301,7 @@ a.operate-reply {
     word-wrap: break-word;
     overflow: auto;
     border-radius: 2px;
-    font-size: 16px
+    font-size: 15px
 }
 
 #wmd-preview img {
